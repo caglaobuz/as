@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148882948881",
+    "project_id": "chattingg-c173d",
+    "storage_bucket": "chattingg-c173d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148882948881:android:d73d204b520ddc0d5c42b0",
+        "android_client_info": {
+          "package_name": "com.example.chattingg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_ieTBd6vz5vZYexw2YP177ZErn5F1LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
